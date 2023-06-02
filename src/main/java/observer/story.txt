@@ -1,0 +1,1 @@
+As an inventory owner I manage supplying and stocking of items. Also, I would like to know whenever my inventory goes to zero.

@@ -1,0 +1,1 @@
+As a user I want to send emails. There can be multiple one or more recipients, multiple cc/bcc, attachements etc.

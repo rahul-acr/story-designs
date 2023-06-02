@@ -1,0 +1,1 @@
+In a bank a user can have multiple bank accounts. When a customer registers a customer id is registered along with one or more accounts. All of these entities contain address. When customer does a KYC and updates address all account addresses should update.
