@@ -1,0 +1,1 @@
+As a Mars rover operator I want to control the rover. The rover can move forward & backward by certain meters rotate by certain degrees, scan, collect sample. I want to give complex instructions like move to north-east by 10 meters, move north 5 meters, scan and collect samples etc.
