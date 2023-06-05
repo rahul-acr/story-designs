@@ -1,0 +1,1 @@
+As payment service I want to process different payment methods like UPI, Credit card, debit card etc. More payment options may get added in the future.
