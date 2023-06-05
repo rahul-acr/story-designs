@@ -1,0 +1,1 @@
+As a bank I want to support different services like fund transfer, bill payment, balance check etc. There are different auth requirement for different services. Fund transfer and bill payment requires otp verification and balance check only requires pin. For fund transfer and bill payment user should have enough balance. There is a daily limit of 10k for fund transfer.
